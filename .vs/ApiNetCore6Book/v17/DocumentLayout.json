@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FreeCodeOnline\\ApiNetCore6Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\data\\bookk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\data\\bookk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\controllers\\selfbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\controllers\\selfbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\controllers\\bookkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\controllers\\bookkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\models\\siginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\models\\siginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\repositories\\accountrepositpry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\repositories\\accountrepositpry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\repositories\\iaccoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\repositories\\iaccoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\models\\sigupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\models\\sigupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\helper\\appicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\helper\\appicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|d:\\freecodeonline\\apinetcore6book\\apinetcore6book\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28853DE7-AAD6-4261-9A96-CE25DF5BEE87}|ApiNetCore6Book\\ApiNetCore6Book.csproj|solutionrelative:apinetcore6book\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelfBookController.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Controllers\\SelfBookController.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Controllers\\SelfBookController.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Controllers\\SelfBookController.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Controllers\\SelfBookController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:20:40.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Accountrepositpry.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Repositories\\Accountrepositpry.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Repositories\\Accountrepositpry.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Repositories\\Accountrepositpry.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Repositories\\Accountrepositpry.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowCkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:09.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Repositories\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:07.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccoutRepository.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Repositories\\IAccoutRepository.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Repositories\\IAccoutRepository.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Repositories\\IAccoutRepository.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Repositories\\IAccoutRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:37:48.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:11:04.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcountController.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Controllers\\AcountController.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Controllers\\AcountController.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Controllers\\AcountController.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Controllers\\AcountController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA0wBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:05:52.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookksController.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Controllers\\BookksController.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Controllers\\BookksController.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Controllers\\BookksController.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Controllers\\BookksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:05:51.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Program.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Program.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Program.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:57:43.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\appsettings.json",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\appsettings.json",
+              "RelativeToolTip": "ApiNetCore6Book\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T14:57:41.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\appsettings.Development.json",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\appsettings.Development.json",
+              "RelativeToolTip": "ApiNetCore6Book\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T14:57:08.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SigUpModel.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Models\\SigUpModel.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Models\\SigUpModel.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Models\\SigUpModel.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Models\\SigUpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:57:02.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SigInModel.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Models\\SigInModel.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Models\\SigInModel.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Models\\SigInModel.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Models\\SigInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:57:01.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Models\\BookModel.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Models\\BookModel.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:57:00.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Helper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Helper\\ApplicationMapper.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Helper\\ApplicationMapper.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Helper\\ApplicationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:56:57.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppicationRole.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Helper\\AppicationRole.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Helper\\AppicationRole.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Helper\\AppicationRole.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Helper\\AppicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:56:51.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bookk.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Data\\Bookk.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Data\\Bookk.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Data\\Bookk.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Data\\Bookk.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:56:36.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Data\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Data\\BookDbContext.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Data\\BookDbContext.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Data\\BookDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:57:26.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "ApiNetCore6Book\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\FreeCodeOnline\\ApiNetCore6Book\\ApiNetCore6Book\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "ApiNetCore6Book\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwEsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:50:46.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

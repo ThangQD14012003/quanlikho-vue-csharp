@@ -1,0 +1,6 @@
+@ApiNetCore6Book_HostAddress = http://localhost:5094
+
+GET {{ApiNetCore6Book_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
